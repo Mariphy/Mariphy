@@ -4,7 +4,7 @@ My name is Maria, I'm a software engineer focusing on Backend, skilled in design
 
 
 - 🔭 I’m currently working on my [Personal Budget App](https://github.com/Mariphy/Personal_Budget_Portfolio_Project)
-- 🌱 I’m currently learning JS testing
+- 🌱 I’m currently learning Web Security
 - 👯 I’m looking to collaborate on any new projects contributing to building efficient and scalable backend systems
 
 <br>

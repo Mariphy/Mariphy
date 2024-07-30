@@ -21,7 +21,8 @@ My name is Maria, I'm a software engineer focusing on Backend, skilled in design
 
 **Tech Stack:**
 
-- JavaScript and Node.js
+- JavaScript
+- Node.js
 - Express.js
 - SQL and PostgreSQL
 - Version Control with Git

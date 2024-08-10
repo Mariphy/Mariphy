@@ -3,8 +3,8 @@
 My name is Maria, I'm a software engineer focusing on Backend, skilled in designing and implementing RESTful APIs, ensuring efficient data transfer between client and server.
 
 
-- 🔭 I’m currently working on my [Personal Budget App](https://github.com/Mariphy/Personal_Budget_Portfolio_Project)
-- 🌱 I’m currently learning Web Security
+- 🔭 I’m currently working on my [Photo App](https://github.com/Mariphy/Photo_App)
+- 🌱 I’m currently learning TypeScript
 - 👯 I’m looking to collaborate on any new projects contributing to building efficient and scalable backend systems
 
 <br>

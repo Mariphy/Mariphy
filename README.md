@@ -5,7 +5,9 @@ My name is Maria, I'm a software engineer focusing on Backend, skilled in design
 
 - 🔭 I’m currently working on my [Photo App](https://github.com/Mariphy/Photo_App)
 - 🌱 I’m currently learning TypeScript
-- 👯 I’m looking to collaborate on any new projects contributing to building efficient and scalable backend systems  
+- 👯 I’m looking to collaborate on any new projects contributing to building efficient and scalable backend systems
+
+-------
 
 **Languages and Tools:**  
 <br>
@@ -30,6 +32,8 @@ My name is Maria, I'm a software engineer focusing on Backend, skilled in design
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 [![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com)
 [![Render](https://img.shields.io/badge/render-46E3B7?style=for-the-badge&logo=render&logoColor=white)](https://render.com)  
+
+-------
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariphy)](https://github.com/anuraghazra/github-readme-stats)
 

@@ -35,5 +35,5 @@ My name is Maria, I'm a software engineer focusing on Backend, skilled in design
 
 -------
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariphy&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariphy&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 

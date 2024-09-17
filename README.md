@@ -7,7 +7,7 @@ My name is Maria, I'm a software engineer focusing on Backend, skilled in design
 - 🌱 I’m currently learning TypeScript
 - 👯 I’m looking to collaborate on any new projects contributing to building efficient and scalable backend systems
 
-<br>
+
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) 

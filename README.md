@@ -30,5 +30,5 @@ My name is Maria, I'm a software engineer focusing on Backend, skilled in design
 [![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com)
 [![Render](https://img.shields.io/badge/render-46E3B7?style=for-the-badge&logo=render&logoColor=white)](https://render.com)  
 
-[![Top Languages](https://github-readme-stats.vercel.app/api?username=mariphy)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariphy)](https://github.com/anuraghazra/github-readme-stats)
 

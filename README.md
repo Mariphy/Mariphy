@@ -38,7 +38,7 @@ My name is Maria, I'm a software engineer focusing on Backend, skilled in design
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariphy&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 -------
-
+**Recent Activity:**  
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#20](https://github.com/dan2811/yamaha/pull/20#issuecomment-2350992967) in [dan2811/yamaha](https://github.com/dan2811/yamaha)
 2. 🗣 Commented on [#19](https://github.com/dan2811/yamaha/pull/19#issuecomment-2338392806) in [dan2811/yamaha](https://github.com/dan2811/yamaha)

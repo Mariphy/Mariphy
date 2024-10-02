@@ -1,11 +1,10 @@
 ## Hi there 👋
 
-My name is Maria, I'm a software engineer focusing on Backend, skilled in designing and implementing RESTful APIs, ensuring efficient data transfer between client and server.
+My name is Maria, I am a software engineer with a strong focus on **backend development**, specializing in building scalable and efficient systems. With expertise in **Node.js, Express.js**, and SQL, I design **RESTful APIs** that optimize data flow and performance.
 
+In addition to my backend work, I’m expanding my skill set into full-stack technologies like **React, Next.js**, and **TypeScript**. I’m committed to continuous learning and always excited to take on new challenges.
 
-- 🔭 I’m currently working on my [Photo App](https://github.com/Mariphy/Photo_App)
-- 🌱 I’m currently learning TypeScript
-- 👯 I’m looking to collaborate on any new projects contributing to building efficient and scalable backend systems
+[Learn more about me](https://mariphy.github.io/)  
 
 -------
 

@@ -39,11 +39,11 @@ In addition to my backend work, I’m expanding my skill set into full-stack tec
 -------
 **Recent Activity:**  
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#26](https://github.com/dan2811/yamaha/pull/26) in [dan2811/yamaha](https://github.com/dan2811/yamaha)
-2. 🗣 Commented on [#26](https://github.com/dan2811/yamaha/pull/26#issuecomment-2406080112) in [dan2811/yamaha](https://github.com/dan2811/yamaha)
-3. 🗣 Commented on [#26](https://github.com/dan2811/yamaha/pull/26#issuecomment-2406028850) in [dan2811/yamaha](https://github.com/dan2811/yamaha)
-4. 💪 Opened PR [#26](https://github.com/dan2811/yamaha/pull/26) in [dan2811/yamaha](https://github.com/dan2811/yamaha)
-5. 🗣 Commented on [#22](https://github.com/dan2811/yamaha/pull/22#issuecomment-2400325504) in [dan2811/yamaha](https://github.com/dan2811/yamaha)
+1. 🗣 Commented on [#26](https://github.com/dan2811/yamaha/pull/26#issuecomment-2407761982) in [dan2811/yamaha](https://github.com/dan2811/yamaha)
+2. 🗣 Commented on [#26](https://github.com/dan2811/yamaha/pull/26#issuecomment-2407736722) in [dan2811/yamaha](https://github.com/dan2811/yamaha)
+3. 🎉 Merged PR [#26](https://github.com/dan2811/yamaha/pull/26) in [dan2811/yamaha](https://github.com/dan2811/yamaha)
+4. 🗣 Commented on [#26](https://github.com/dan2811/yamaha/pull/26#issuecomment-2406080112) in [dan2811/yamaha](https://github.com/dan2811/yamaha)
+5. 🗣 Commented on [#26](https://github.com/dan2811/yamaha/pull/26#issuecomment-2406028850) in [dan2811/yamaha](https://github.com/dan2811/yamaha)
 <!--END_SECTION:activity-->
 
 

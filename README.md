@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-My name is Maria, I am a software engineer with a strong focus on **backend development**, specializing in building scalable and efficient systems. With expertise in **Node.js, Express.js**, and SQL, I design **RESTful APIs** that optimize data flow and performance.
+My name is Maria, I am a software engineer with a strong focus on **backend development**, specializing in building scalable and efficient systems. With expertise in **Node.js, Express.js**, and **SQL**, I design **RESTful APIs** that optimize data flow and performance.
 
-In addition to my backend work, I’m expanding my skill set into full-stack technologies like **React, Next.js**, and **TypeScript**. I’m committed to continuous learning and always excited to take on new challenges.
+In addition to my backend work, I’m expanding my skill set into full-stack technologies like **React, Astro, Next.js**, and **TypeScript**. I’m committed to continuous learning and always excited to take on new challenges.
 
 [Learn more about me](https://mariphy.github.io/)  
 

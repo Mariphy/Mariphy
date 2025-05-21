@@ -42,11 +42,11 @@ In addition to my backend work, I’m expanding my skill set into full-stack tec
 -------
 **Recent Activity:**  
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/Mariphy/kite-ai/pull/1#issuecomment-2887046759) in [Mariphy/kite-ai](https://github.com/Mariphy/kite-ai)
-2. 💪 Opened PR [#1](https://github.com/Mariphy/kite-ai/pull/1) in [Mariphy/kite-ai](https://github.com/Mariphy/kite-ai)
-3. 🗣 Commented on [#34](https://github.com/dan2811/yamaha/pull/34#issuecomment-2484438704) in [dan2811/yamaha](https://github.com/dan2811/yamaha)
-4. 🔒 Closed issue [#32](https://github.com/dan2811/yamaha/issues/32) in [dan2811/yamaha](https://github.com/dan2811/yamaha)
-5. 🎉 Merged PR [#35](https://github.com/dan2811/yamaha/pull/35) in [dan2811/yamaha](https://github.com/dan2811/yamaha)
+1. 🎉 Merged PR [#2](https://github.com/Mariphy/kite-ai/pull/2) in [Mariphy/kite-ai](https://github.com/Mariphy/kite-ai)
+2. 💪 Opened PR [#2](https://github.com/Mariphy/kite-ai/pull/2) in [Mariphy/kite-ai](https://github.com/Mariphy/kite-ai)
+3. 🎉 Merged PR [#1](https://github.com/Mariphy/kite-ai/pull/1) in [Mariphy/kite-ai](https://github.com/Mariphy/kite-ai)
+4. 🗣 Commented on [#1](https://github.com/Mariphy/kite-ai/pull/1#issuecomment-2887046759) in [Mariphy/kite-ai](https://github.com/Mariphy/kite-ai)
+5. 💪 Opened PR [#1](https://github.com/Mariphy/kite-ai/pull/1) in [Mariphy/kite-ai](https://github.com/Mariphy/kite-ai)
 <!--END_SECTION:activity-->
 
 

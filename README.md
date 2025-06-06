@@ -1,8 +1,12 @@
 ## Hi there 👋
 
-My name is Maria, I am a software engineer with a strong focus on **backend development**, specializing in building scalable and efficient systems. With expertise in **Node.js, Express.js**, and **SQL**, I design **RESTful APIs** that optimize data flow and performance.
+My name is Maria, I'm a full-stack software engineer primarily working with **Next.js** and **TypeScript** to develop seamless end-to-end experiences, combining strong backend logic with intuitive frontends. 
+On the frontend, I use **React** and **Astro** to craft responsive, modern interfaces. For backend development, I work with **Node.js**, **Express**, and databases like **PostgreSQL** and **MongoDB**, designing APIs and systems that are both efficient and reliable.
 
-In addition to my backend work, I’m expanding my skill set into full-stack technologies like **React, Astro, Next.js**, and **TypeScript**. I’m committed to continuous learning and always excited to take on new challenges.
+I'm also exploring the potential of **AI** to enhance user experiences and streamline development. I thrive on learning, solving real-world problems, and bringing thoughtful products to life.
+
+
+🔭 I’m currently working on [Kite AI](https://github.com/Mariphy/kite-ai) - platform for career changers designed to help them transition and find communtiy. 
 
 [Learn more about me](https://mariphy.github.io/)  
 

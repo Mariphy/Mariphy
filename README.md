@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 My name is Maria, I'm a full-stack software engineer primarily working with **Next.js** and **TypeScript** to develop seamless end-to-end experiences, combining strong backend logic with intuitive frontends. 
-On the frontend, I use **React** and **Astro** to craft responsive, modern interfaces. For backend development, I work with **Node.js**, **Express**, and databases like **PostgreSQL** and **MongoDB**, designing APIs and systems that are both efficient and reliable.
+Additionally, I use **React** and **Astro** to craft responsive, modern interfaces. For backend development, I work with **Node.js**, **Express**, and databases like **PostgreSQL** and **MongoDB**, designing APIs and systems that are both efficient and reliable.
 
 I'm also exploring the potential of **AI** to enhance user experiences and streamline development. I thrive on learning, solving real-world problems, and bringing thoughtful products to life.
 

@@ -46,11 +46,11 @@ I'm also exploring the potential of **AI** to enhance user experiences and strea
 -------
 **Recent Activity:**  
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#51](https://github.com/Mariphy/routiner/issues/51) in [Mariphy/routiner](https://github.com/Mariphy/routiner)
-2. ❗ Opened issue [#51](https://github.com/Mariphy/routiner/issues/51) in [Mariphy/routiner](https://github.com/Mariphy/routiner)
-3. ❗ Opened issue [#50](https://github.com/Mariphy/routiner/issues/50) in [Mariphy/routiner](https://github.com/Mariphy/routiner)
-4. ❗ Opened issue [#49](https://github.com/Mariphy/routiner/issues/49) in [Mariphy/routiner](https://github.com/Mariphy/routiner)
-5. ❗ Opened issue [#48](https://github.com/Mariphy/routiner/issues/48) in [Mariphy/routiner](https://github.com/Mariphy/routiner)
+1. 🔒 Closed issue [#48](https://github.com/Mariphy/routiner/issues/48) in [Mariphy/routiner](https://github.com/Mariphy/routiner)
+2. ❗ Opened issue [#53](https://github.com/Mariphy/routiner/issues/53) in [Mariphy/routiner](https://github.com/Mariphy/routiner)
+3. ❗ Opened issue [#52](https://github.com/Mariphy/routiner/issues/52) in [Mariphy/routiner](https://github.com/Mariphy/routiner)
+4. 🔒 Closed issue [#34](https://github.com/Mariphy/routiner/issues/34) in [Mariphy/routiner](https://github.com/Mariphy/routiner)
+5. 🔒 Closed issue [#51](https://github.com/Mariphy/routiner/issues/51) in [Mariphy/routiner](https://github.com/Mariphy/routiner)
 <!--END_SECTION:activity-->
 
 

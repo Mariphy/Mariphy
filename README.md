@@ -46,11 +46,11 @@ I'm also exploring the potential of **AI** to enhance user experiences and strea
 -------
 **Recent Activity:**  
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Mariphy/exercism/pull/1) in [Mariphy/exercism](https://github.com/Mariphy/exercism)
-2. 🎉 Merged PR [#3](https://github.com/Mariphy/Mariphy.github.io/pull/3) in [Mariphy/Mariphy.github.io](https://github.com/Mariphy/Mariphy.github.io)
-3. 🎉 Merged PR [#2](https://github.com/Mariphy/Mariphy.github.io/pull/2) in [Mariphy/Mariphy.github.io](https://github.com/Mariphy/Mariphy.github.io)
-4. 🎉 Merged PR [#55](https://github.com/Mariphy/routiner/pull/55) in [Mariphy/routiner](https://github.com/Mariphy/routiner)
-5. ❗ Opened issue [#54](https://github.com/Mariphy/routiner/issues/54) in [Mariphy/routiner](https://github.com/Mariphy/routiner)
+1. 🔒 Closed issue [#52](https://github.com/Mariphy/routiner/issues/52) in [Mariphy/routiner](https://github.com/Mariphy/routiner)
+2. 🎉 Merged PR [#1](https://github.com/Mariphy/exercism/pull/1) in [Mariphy/exercism](https://github.com/Mariphy/exercism)
+3. 🎉 Merged PR [#3](https://github.com/Mariphy/Mariphy.github.io/pull/3) in [Mariphy/Mariphy.github.io](https://github.com/Mariphy/Mariphy.github.io)
+4. 🎉 Merged PR [#2](https://github.com/Mariphy/Mariphy.github.io/pull/2) in [Mariphy/Mariphy.github.io](https://github.com/Mariphy/Mariphy.github.io)
+5. 🎉 Merged PR [#55](https://github.com/Mariphy/routiner/pull/55) in [Mariphy/routiner](https://github.com/Mariphy/routiner)
 <!--END_SECTION:activity-->
 
 

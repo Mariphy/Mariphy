@@ -46,7 +46,7 @@ I'm also exploring the potential of **AI** to enhance user experiences and strea
 -------
 **Recent Activity:**  
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Mariphy/exercism/pull/2) in [Mariphy/exercism](https://github.com/Mariphy/exercism)
+1. 🔒 Closed issue [#15](https://github.com/Mariphy/routiner/issues/15) in [Mariphy/routiner](https://github.com/Mariphy/routiner)
 2. 🔒 Closed issue [#52](https://github.com/Mariphy/routiner/issues/52) in [Mariphy/routiner](https://github.com/Mariphy/routiner)
 3. 🎉 Merged PR [#1](https://github.com/Mariphy/exercism/pull/1) in [Mariphy/exercism](https://github.com/Mariphy/exercism)
 4. 🎉 Merged PR [#3](https://github.com/Mariphy/Mariphy.github.io/pull/3) in [Mariphy/Mariphy.github.io](https://github.com/Mariphy/Mariphy.github.io)

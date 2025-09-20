@@ -46,11 +46,11 @@ I'm also exploring the potential of **AI** to enhance user experiences and strea
 -------
 **Recent Activity:**  
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#60](https://github.com/Mariphy/routiner/issues/60) in [Mariphy/routiner](https://github.com/Mariphy/routiner)
-2. 🔒 Closed issue [#59](https://github.com/Mariphy/routiner/issues/59) in [Mariphy/routiner](https://github.com/Mariphy/routiner)
-3. 🎉 Merged PR [#7](https://github.com/Mariphy/kite-ai/pull/7) in [Mariphy/kite-ai](https://github.com/Mariphy/kite-ai)
-4. 🎉 Merged PR [#6](https://github.com/Mariphy/kite-ai/pull/6) in [Mariphy/kite-ai](https://github.com/Mariphy/kite-ai)
-5. ❗ Opened issue [#59](https://github.com/Mariphy/routiner/issues/59) in [Mariphy/routiner](https://github.com/Mariphy/routiner)
+1. 🎉 Merged PR [#62](https://github.com/Mariphy/routiner/pull/62) in [Mariphy/routiner](https://github.com/Mariphy/routiner)
+2. 💪 Opened PR [#62](https://github.com/Mariphy/routiner/pull/62) in [Mariphy/routiner](https://github.com/Mariphy/routiner)
+3. 🎉 Merged PR [#61](https://github.com/Mariphy/routiner/pull/61) in [Mariphy/routiner](https://github.com/Mariphy/routiner)
+4. 💪 Opened PR [#61](https://github.com/Mariphy/routiner/pull/61) in [Mariphy/routiner](https://github.com/Mariphy/routiner)
+5. ❗ Opened issue [#60](https://github.com/Mariphy/routiner/issues/60) in [Mariphy/routiner](https://github.com/Mariphy/routiner)
 <!--END_SECTION:activity-->
 
 

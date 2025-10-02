@@ -46,11 +46,11 @@ I'm also exploring the potential of **AI** to enhance user experiences and strea
 -------
 **Recent Activity:**  
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#9](https://github.com/Mariphy/exercism/pull/9) in [Mariphy/exercism](https://github.com/Mariphy/exercism)
-2. 🎉 Merged PR [#10](https://github.com/Mariphy/exercism/pull/10) in [Mariphy/exercism](https://github.com/Mariphy/exercism)
-3. 🎉 Merged PR [#6](https://github.com/Mariphy/exercism/pull/6) in [Mariphy/exercism](https://github.com/Mariphy/exercism)
-4. 🎉 Merged PR [#62](https://github.com/Mariphy/routiner/pull/62) in [Mariphy/routiner](https://github.com/Mariphy/routiner)
-5. 💪 Opened PR [#62](https://github.com/Mariphy/routiner/pull/62) in [Mariphy/routiner](https://github.com/Mariphy/routiner)
+1. 🎉 Merged PR [#4](https://github.com/Mariphy/Mariphy.github.io/pull/4) in [Mariphy/Mariphy.github.io](https://github.com/Mariphy/Mariphy.github.io)
+2. ❌ Closed PR [#9](https://github.com/Mariphy/exercism/pull/9) in [Mariphy/exercism](https://github.com/Mariphy/exercism)
+3. 🎉 Merged PR [#10](https://github.com/Mariphy/exercism/pull/10) in [Mariphy/exercism](https://github.com/Mariphy/exercism)
+4. 🎉 Merged PR [#6](https://github.com/Mariphy/exercism/pull/6) in [Mariphy/exercism](https://github.com/Mariphy/exercism)
+5. 🎉 Merged PR [#62](https://github.com/Mariphy/routiner/pull/62) in [Mariphy/routiner](https://github.com/Mariphy/routiner)
 <!--END_SECTION:activity-->
 
 

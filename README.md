@@ -6,7 +6,7 @@ Additionally, I use **React** and **Astro** to craft responsive, modern interfac
 I'm also exploring the potential of **AI** to enhance user experiences and streamline development. I thrive on learning, solving real-world problems, and bringing thoughtful products to life.
 
 
-🔭 I’m currently working on [Kite AI](https://github.com/Mariphy/kite-ai) - platform for career changers designed to help them transition and find communtiy. 
+🔭 I’m currently attending [Recurse Center](https://www.recurse.com/), working at the edge of my abilities, pair programming and upskilling in AI and distributed systems.
 
 [Learn more about me](https://mariphy.github.io/)  
 

@@ -46,11 +46,11 @@ I'm also exploring the potential of **AI** to enhance user experiences and strea
 -------
 **Recent Activity:**  
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#9](undefined) in [Mariphy/exercism](https://github.com/Mariphy/exercism)
-2. ❌ Closed PR [#7](undefined) in [Mariphy/exercism](https://github.com/Mariphy/exercism)
-3. 💪 Opened PR [#62](undefined) in [Mariphy/routiner](https://github.com/Mariphy/routiner)
-4. 💪 Opened PR [#61](undefined) in [Mariphy/routiner](https://github.com/Mariphy/routiner)
-5. ❗ Opened issue [#60](https://github.com/Mariphy/routiner/issues/60) in [Mariphy/routiner](https://github.com/Mariphy/routiner)
+1. 🔒 Closed issue [#5](https://github.com/Mariphy/routiner/issues/5) in [Mariphy/routiner](https://github.com/Mariphy/routiner)
+2. 🔒 Closed issue [#47](https://github.com/Mariphy/routiner/issues/47) in [Mariphy/routiner](https://github.com/Mariphy/routiner)
+3. 🔒 Closed issue [#43](https://github.com/Mariphy/routiner/issues/43) in [Mariphy/routiner](https://github.com/Mariphy/routiner)
+4. 🔒 Closed issue [#60](https://github.com/Mariphy/routiner/issues/60) in [Mariphy/routiner](https://github.com/Mariphy/routiner)
+5. 🔒 Closed issue [#54](https://github.com/Mariphy/routiner/issues/54) in [Mariphy/routiner](https://github.com/Mariphy/routiner)
 <!--END_SECTION:activity-->
 
 

@@ -46,7 +46,7 @@ I'm also exploring the potential of **AI** to enhance user experiences and strea
 -------
 **Recent Activity:**  
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#3463](undefined) in [Codecademy/wedding-rsvp-off-platform-project](https://github.com/Codecademy/wedding-rsvp-off-platform-project)
+1. ❌ Closed PR [#3463](https://github.com/Codecademy/wedding-rsvp-off-platform-project/pull/3463) in [Codecademy/wedding-rsvp-off-platform-project](https://github.com/Codecademy/wedding-rsvp-off-platform-project)
 2. ❌ Merged PR [#69](undefined) in [Mariphy/routiner](https://github.com/Mariphy/routiner)
 3. 💪 Opened PR [#69](undefined) in [Mariphy/routiner](https://github.com/Mariphy/routiner)
 4. ❌ Merged PR [#68](undefined) in [Mariphy/routiner](https://github.com/Mariphy/routiner)
